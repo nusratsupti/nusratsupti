@@ -69,7 +69,7 @@ I’m a Product Manager with **5+ years of experience** in building and scaling 
 📧 **Email:** [nusrat.supti57@gmail.com](mailto:nusrat.supti57@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/supti047](https://www.linkedin.com/in/supti047)  
 📰 **Medium:** [medium.com/@nusrat.supti57](https://medium.com/@nusrat.supti57)  
-💻 **GitHub:** [github.com/supti047](https://github.com/supti047)
+💻 **GitHub:** [github.com/nusratsupti](https://github.com/nusratsupti)
 
 ---
 
