@@ -8,7 +8,7 @@ I’m a Product Manager with **5+ years of experience** in building and scaling 
 
 ## 🧩 About Me  
 
-- 💼 Currently leading product development at **US-Bangla Airlines LTD**, building a **new ride-sharing platform** from scratch.  
+- 💼 Currently leading product development at **US-Bangla Airlines LTD**, building a **new on-demand Marketplace platform** from scratch.  
 - 🛻 Previously at **Truck Lagbe**, where I launched the company’s **first web app**, introduced **auto-tagging** and **new pricing models**, driving measurable growth in GMV.  
 - 🧠 Former **Project Management Executive** at **Databiz Software Ltd.**, where I owned ERP solutions and defined product roadmaps.  
 - 🎯 I’m passionate about **product discovery, analytics, and process building**, ensuring collaboration between design, tech, and operations.  
