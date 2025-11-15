@@ -59,7 +59,7 @@ I’m a Product Manager with **5+ years of experience** in building and scaling 
 
 ## 🖋️ Publications & Writing  
 
-- 📄 *Criminal Behavior Analysis for Questionable Vehicle Detection* ICCA 2020  
+- 📄 *Criminal Behavior Analysis for Questionable Vehicle Detection*, ICCA 2020  
 - ✍️ I also write about product strategy and user experience on [Medium](https://medium.com/@nusrat.supti57)  
 
 ---
