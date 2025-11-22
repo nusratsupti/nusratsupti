@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nusrat Haque Supti  
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/0c0b07c0-67ca-4482-9bb4-35adfb01ae6f" /># 👋 Hi, I'm Nusrat Haque Supti  
 
 🚀 **Product Manager | Marketplace | SaaS | E-commerce | Logistics**  
 
