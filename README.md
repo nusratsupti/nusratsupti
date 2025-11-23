@@ -53,6 +53,7 @@ I'm a Product Manager with **5+ years of experience** in building and scaling di
 |----------|--------------|------|
 | 🐶 **My Pet Buddy** | Online Pet Consultancy Platform | [mypetbuddy.net](https://mypetbuddy.net) |
 | 🛻 **Truck Lagbe Marketplace Web** | First web platform for trip creation | [trucklagbe.com/shipper](https://www.trucklagbe.com/shipper) |
+| 🧰 **Truck Lagbe Website** | Internal tool for managing client queries | [trucklagbe.com/](https://www.trucklagbe.com/) |
 | 🧰 **Customer Support Tool** | Internal tool for managing client queries | [customer-connection-forge.lovable.app](https://customer-connection-forge.lovable.app) |
 
 ---
