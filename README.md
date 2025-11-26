@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nusrat Haque Supti  
 
-🚀 **Product Manager | Marketplace | SaaS | E-commerce | Logistics**  
+🚀 **Product Manager | Marketplace | SaaS | E-commerce | Mobility**  
 
 I'm a Product Manager with **5+ years of experience** in building and scaling digital products, from SaaS platforms and ERP systems to on-demand marketplaces. I love transforming user problems into data-driven solutions that drive business growth and user satisfaction.  
 
