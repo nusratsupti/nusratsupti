@@ -42,7 +42,7 @@ I'm a Product Manager with **5+ years of experience** in building and scaling di
 ## 🎓 Education & Certifications  
 
 - 🎓 **B.Sc. in Computer Science & Engineering** - American International University Bangladesh (2015–2019)  
-- 🏅 **Certified Scrum Product Owner (CSPO®)**  
+- 🏅 **Certified Scrum Product Owner (CSPO®)**  - Scrum Alliance
 - 📘 **Product-led Growth Micro Certification** - Product School  
 - 📗 **Exploring Product Roadmap** - Pluralsight  
 
