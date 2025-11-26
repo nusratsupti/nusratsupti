@@ -30,11 +30,12 @@ I'm a Product Manager with **5+ years of experience** in building and scaling di
 
 | Category | Tools & Competencies |
 |-----------|----------------------|
-| **Product Management** | Roadmapping, Backlog Grooming, Agile, Scrum |
-| **Data & Research** | Mixpanel, User Research, Funnel Analysis, Competitor Study |
-| **Leadership** | Cross-functional Collaboration, Stakeholder Management |
+| **Product Management** | Roadmapping, Backlog Management, Agile, Scrum |
+| **Data & Research** | Mixpanel, User Research, Funnel Creation & Management, Competitor Analysis |
+| **Leadership** | Ownership, Cross-functional Collaboration, Stakeholder Management |
 | **Business Knowledge** | SaaS, Marketplace, ERP, B2B, E-commerce |
 | **Soft Skills** | Ownership, Teamwork, Strategic Thinking, Adaptability |
+| **Tools** | Figma, Mixpanel, Trello, Jira, Metabase, Notion |
 
 ---
 
