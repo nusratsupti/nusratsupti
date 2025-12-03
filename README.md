@@ -17,7 +17,7 @@ I'm a Product Manager with **5+ years of experience** in building and scaling di
 
 ## 💡 Highlights  
 
-- ⚡ Led the pilot launch of an on-demand marketplace for US-Bangla Airlines, driving early validation and growth.
+- ⚡ Pilot launched a **new on-demand Marketplace** for US-Bangla Airlines, driving early validation and growth.
 - 🚚 Introduced Truck Lagbe’s first **Marketplace Web App**, creating a new acquisition channel.  
 - 💰 Developed and launched a **pricing model** that increased GMV by **3%**.  
 - 🤖 Introduced **auto-tagging** for intercity trips, boosting completion rate by **16%**.  
