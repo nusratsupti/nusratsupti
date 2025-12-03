@@ -14,10 +14,10 @@ I'm a Product Manager with **5+ years of experience** in building and scaling di
 - 🎯 I’m passionate about **product discovery, analytics, and process building**, ensuring collaboration between design, tech, and operations.  
 
 ---
-## 🚀 Resume
+<!-- ## 🚀 Resume
 - 📄 [Download My Resume](NusratSupti_Resume.pdf)
 
----
+--- -->
 
 ## 💡 Highlights  
 
