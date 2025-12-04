@@ -15,7 +15,7 @@ I'm a Product Manager with **5+ years of experience** in building and scaling di
 
 ---
 ## 🚀 Resume
-- 📄 [Download My Resume]([NusratHaqueSupti/Nusrat%20Haque%20Supti_Resume.pdf](https://github.com/nusratsupti/NusratHaqueSupti/blob/main/Nusrat%20Haque%20Supti_Resume.pdf))
+- 📄 [Download My Resume](Nusrat%20Haque%20Supti_Resume.pdf)
 
 ---
 
