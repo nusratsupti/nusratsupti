@@ -81,4 +81,4 @@ I'm a Product Manager with **6+ years of experience** in building and scaling di
 
 ---
 
-⭐️ *“Driven by curiosity, guided by data, and committed to creating meaningful user experiences.”*  
+⭐️ *“Driven by curiosity, guided by data, and committed to creating impactful user experiences.”*  
